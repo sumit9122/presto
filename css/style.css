@@ -349,11 +349,10 @@ hr{
     position: relative;
     top: 64px;
 }
-.contigo p{
+.contigo p {
     color: #748cfb;
-    font-size: 27px;
-    font-weight: 500;
-
+    font-size: 33px;
+    font-weight: 200;
 }
 .contigo p strong{
     color: #4264fa;
