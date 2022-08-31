@@ -323,16 +323,7 @@ hr{
     font-size: 2.7rem;
     position: relative;
 }
-/* .contigo h3::after {
-    position: absolute;
-    content: "";
-    width: 130px;
-    height: 5px;
-    border-radius: 10px;
-    background-color: #4e6dfa;
-    top: 82px;
-    right: 376px;
-} */
+
 .border {
     width: 130px;
     height: 7px;
@@ -628,16 +619,7 @@ p-0{
 .peisto span{
     font-weight: 400;
 }
-/* .peisto::after {
-    position: absolute;
-    content: "";
-    width: 160px;
-    height: 5px;
-    border-radius: 5px;
-    background-color: #3b5ef9;
-    top: 100px;
-    right: 583px;
-} */
+
 .minibox{
     display: flex;
     justify-content: space-between;
@@ -791,14 +773,7 @@ p-0{
     color: #fff;
     transition: all 0.5s ease-in-out;
 }
-/* .bord{
-    border-bottom: 3px solid transparent;
-    border-left: 2px solid transparent;
-}
-.bord:hover{
-    border-bottom: 2px solid #5372fd;
-    border-left: 2px solid #5372fd;
-} */
+
 /* footer section start */
 
 @media only screen and (max-width: 1199px) and (min-width: 768px){
